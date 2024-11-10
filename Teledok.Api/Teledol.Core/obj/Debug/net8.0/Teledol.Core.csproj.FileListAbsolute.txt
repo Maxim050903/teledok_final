@@ -1,0 +1,14 @@
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\bin\Debug\net8.0\Teledol.Core.deps.json
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\bin\Debug\net8.0\Teledol.Core.runtimeconfig.json
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\bin\Debug\net8.0\Teledol.Core.dll
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\bin\Debug\net8.0\Teledol.Core.pdb
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.csproj.AssemblyReference.cache
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.AssemblyInfoInputs.cache
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.AssemblyInfo.cs
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.csproj.CoreCompileInputs.cache
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.dll
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\refint\Teledol.Core.dll
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.pdb
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\Teledol.Core.genruntimeconfig.cache
+C:\Users\cuzev\OneDrive\Рабочий стол\Teledok\Teledok.Api\Teledol.Core\obj\Debug\net8.0\ref\Teledol.Core.dll

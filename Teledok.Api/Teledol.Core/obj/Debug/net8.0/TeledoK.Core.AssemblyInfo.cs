@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teledok.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4ef60b7ba5abc472a1fbc354e64112963f7526")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teledok.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teledok.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

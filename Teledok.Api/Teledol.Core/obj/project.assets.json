@@ -7954,11 +7954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj",
+      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj",
       "projectName": "Teledok.Core",
-      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj",
+      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj",
       "packagesPath": "C:\\Users\\cuzev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledol.Core\\obj\\",
+      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledol.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

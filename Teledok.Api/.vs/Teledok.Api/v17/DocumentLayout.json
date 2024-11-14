@@ -1,201 +1,201 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\repositories\\founderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\repositories\\founderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\teledokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\teledokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledol.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledol.core\\models\\founder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\models\\founder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\foundercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\foundercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.aplication\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledol.core\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contract.client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\entities\\clientenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\entities\\clientenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledol.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\entities\\founderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\entities\\founderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.aplication\\services\\founderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\services\\founderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\migrations\\20241109165705_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\migrations\\20241109165705_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\migrations\\20241109213727_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\migrations\\20241109213727_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contracts.founder\\founderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contracts.founder\\founderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contract.client\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledol.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledol.core\\interfaces\\ifounderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\ifounderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\configurations\\founderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\configurations\\founderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledol.core\\interfaces\\ifounderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\ifounderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\teledok.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\teledok.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\teledok.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.aplication\\teledok.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.aplication\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledol.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\repositories\\founderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\repositories\\founderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\teledokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\teledokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledol.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledol.core\\models\\founder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\models\\founder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\foundercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\foundercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledol.core\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contract.client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\entities\\clientenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\entities\\clientenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\entities\\founderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\entities\\founderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.aplication\\services\\founderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\services\\founderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\migrations\\20241109165705_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\migrations\\20241109165705_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\migrations\\20241109213727_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\migrations\\20241109213727_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contracts.founder\\founderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contracts.founder\\founderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contract.client\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledol.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledol.core\\interfaces\\ifounderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\ifounderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\configurations\\founderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\configurations\\founderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:1:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledol.core\\interfaces\\ifounderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3133CA4-F3CB-4957-BB4D-FAFE1F47DB13}|Teledol.Core\\Teledok.Core.csproj|solutionrelative:teledol.core\\interfaces\\ifounderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.aplication\\teledok.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:1:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\teledok.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.aplication\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.aplication\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\foundercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\foundercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\foundercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contract.client\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.aplication\\services\\founderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.aplication\\services\\founderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\services\\founderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\repositories\\founderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\repositories\\founderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\repositories\\founderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\entities\\clientenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\entities\\clientenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\entities\\clientenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\entities\\founderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\entities\\founderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\entities\\founderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\configurations\\founderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\configurations\\founderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\configurations\\founderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\teledokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\teledokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\teledokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.database\\teledok.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.database\\teledok.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:2:0:{8F708CBF-98F6-441A-91F6-9F3A7BE37D55}|Teledok.DataBase\\Teledok.DataBase.csproj|solutionrelative:teledok.database\\teledok.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\teledok.aplication\\teledok.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\teledok.aplication\\teledok.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:2:0:{B7CA72A3-DEA4-411E-A684-E3BE797EDD0E}|Teledok.Aplication\\Teledok.Aplication.csproj|solutionrelative:teledok.aplication\\teledok.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contract.client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contract.client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contracts.founder\\founderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\teledok.controllers\\contracts.founder\\founderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\teledok.controllers\\contracts.founder\\founderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok.api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\teledok.api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:2:0:{746B5E41-E6FD-4C49-9BD8-9B8E7C5EC083}|WebApplication1\\Teledok.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -206,64 +206,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Founder.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Models\\Founder.cs",
-              "RelativeDocumentMoniker": "Teledol.Core\\Models\\Founder.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Models\\Founder.cs",
-              "RelativeToolTip": "Teledol.Core\\Models\\Founder.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB0AAAAbAAAA",
+              "DocumentIndex": 2,
+              "Title": "ClientServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
+              "RelativeDocumentMoniker": "Teledok.Aplication\\Services\\ClientServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
+              "RelativeToolTip": "Teledok.Aplication\\Services\\ClientServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:17:08.14Z"
+              "WhenOpened": "2024-11-09T15:39:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FounderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
+              "RelativeDocumentMoniker": "Teledok.DataBase\\Repositories\\FounderRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
+              "RelativeToolTip": "Teledok.DataBase\\Repositories\\FounderRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:48:56.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeledokDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
+              "RelativeDocumentMoniker": "Teledok.DataBase\\TeledokDBcontext.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
+              "RelativeToolTip": "Teledok.DataBase\\TeledokDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:44:29.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Teledol.Core\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Teledol.Core\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:17:01.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teledok.DataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
+              "RelativeDocumentMoniker": "Teledok.DataBase\\Teledok.DataBase.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
+              "RelativeToolTip": "Teledok.DataBase\\Teledok.DataBase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T15:43:52.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Repositories\\ClientRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
               "RelativeToolTip": "Teledok.DataBase\\Repositories\\ClientRepository.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDgAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T15:48:33.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
-              "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\ClientController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAywEMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:34:39.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClientServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
-              "RelativeDocumentMoniker": "Teledok.Aplication\\Services\\ClientServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
-              "RelativeToolTip": "Teledok.Aplication\\Services\\ClientServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:39:34.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ClientConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
               "RelativeToolTip": "Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,34 +299,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FounderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
-              "RelativeDocumentMoniker": "Teledok.DataBase\\Repositories\\FounderRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
-              "RelativeToolTip": "Teledok.DataBase\\Repositories\\FounderRepository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAAuAAAA",
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
+              "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\ClientController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:48:56.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TeledokDBcontext.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
-              "RelativeDocumentMoniker": "Teledok.DataBase\\TeledokDBcontext.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
-              "RelativeToolTip": "Teledok.DataBase\\TeledokDBcontext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:44:29.683Z"
+              "WhenOpened": "2024-11-09T15:34:39.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Founder.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Models\\Founder.cs",
+              "RelativeDocumentMoniker": "Teledol.Core\\Models\\Founder.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Models\\Founder.cs",
+              "RelativeToolTip": "Teledol.Core\\Models\\Founder.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:17:08.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Utils.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Utils\\Utils.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "Teledol.Core\\Utils\\Utils.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Utils\\Utils.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Utils\\Utils.cs",
               "RelativeToolTip": "Teledol.Core\\Utils\\Utils.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAIAwwCEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Models\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Models\\Client.cs",
               "RelativeDocumentMoniker": "Teledol.Core\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Models\\Client.cs",
               "RelativeToolTip": "Teledol.Core\\Models\\Client.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAiwCQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ClientResponse.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "FounderController.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\FounderController.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\FounderController.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAAAD0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -343,23 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientRepository.cs",
-              "RelativeDocumentMoniker": "Teledol.Core\\Interfaces\\IClientRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientRepository.cs",
-              "RelativeToolTip": "Teledol.Core\\Interfaces\\IClientRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:17:01.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FounderEntity.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Entities\\FounderEntity.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
               "RelativeToolTip": "Teledok.DataBase\\Entities\\FounderEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ClientEnity.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Entities\\ClientEnity.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
               "RelativeToolTip": "Teledok.DataBase\\Entities\\ClientEnity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -379,11 +395,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FounderServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
               "RelativeDocumentMoniker": "Teledok.Aplication\\Services\\FounderServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
               "RelativeToolTip": "Teledok.Aplication\\Services\\FounderServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,11 +407,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "20241109213727_init2.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109213727_init2.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109213727_init2.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Migrations\\20241109213727_init2.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109213727_init2.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109213727_init2.cs",
               "RelativeToolTip": "Teledok.DataBase\\Migrations\\20241109213727_init2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,11 +419,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "20241109165705_init.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109165705_init.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109165705_init.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Migrations\\20241109165705_init.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109165705_init.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Migrations\\20241109165705_init.cs",
               "RelativeToolTip": "Teledok.DataBase\\Migrations\\20241109165705_init.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,11 +431,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "FounderResponse.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -427,11 +443,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FounderRequest.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -439,11 +455,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ClientRequest.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -451,11 +467,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -463,23 +479,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IClientService.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientService.cs",
               "RelativeDocumentMoniker": "Teledol.Core\\Interfaces\\IClientService.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IClientService.cs",
               "RelativeToolTip": "Teledol.Core\\Interfaces\\IClientService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T16:17:03.713Z"
+              "WhenOpened": "2024-11-09T16:17:03.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IFounderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderRepository.cs",
               "RelativeDocumentMoniker": "Teledol.Core\\Interfaces\\IFounderRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderRepository.cs",
               "RelativeToolTip": "Teledol.Core\\Interfaces\\IFounderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -487,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "FounderConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
               "RelativeToolTip": "Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -499,11 +516,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -511,11 +528,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
               "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -523,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "IFounderService.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderService.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderService.cs",
               "RelativeDocumentMoniker": "Teledol.Core\\Interfaces\\IFounderService.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderService.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledol.Core\\Interfaces\\IFounderService.cs",
               "RelativeToolTip": "Teledol.Core\\Interfaces\\IFounderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -537,9 +554,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "FounderController.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\FounderController.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\FounderController.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\FounderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,9 +566,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -561,33 +578,35 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\ClientController.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\ClientController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAADgvzUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:34:39.834Z"
+              "WhenOpened": "2024-11-09T15:34:39.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "ClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Repositories\\ClientRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\ClientRepository.cs",
               "RelativeToolTip": "Teledok.DataBase\\Repositories\\ClientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:48:33.194Z"
+              "WhenOpened": "2024-11-09T15:48:33.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "FounderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Repositories\\FounderRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Repositories\\FounderRepository.cs",
               "RelativeToolTip": "Teledok.DataBase\\Repositories\\FounderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -597,9 +616,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ClientRequest.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -609,9 +628,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "FounderServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
               "RelativeDocumentMoniker": "Teledok.Aplication\\Services\\FounderServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\FounderServices.cs",
               "RelativeToolTip": "Teledok.Aplication\\Services\\FounderServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -621,21 +640,22 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "ClientServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
               "RelativeDocumentMoniker": "Teledok.Aplication\\Services\\ClientServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Services\\ClientServices.cs",
               "RelativeToolTip": "Teledok.Aplication\\Services\\ClientServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:39:34.625Z"
+              "WhenOpened": "2024-11-09T15:39:34.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "ClientConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
               "RelativeToolTip": "Teledok.DataBase\\Configurations\\ClientConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,9 +665,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "ClientEnity.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Entities\\ClientEnity.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\ClientEnity.cs",
               "RelativeToolTip": "Teledok.DataBase\\Entities\\ClientEnity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -657,9 +677,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "FounderEntity.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Entities\\FounderEntity.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Entities\\FounderEntity.cs",
               "RelativeToolTip": "Teledok.DataBase\\Entities\\FounderEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -669,9 +689,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "FounderConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
               "RelativeToolTip": "Teledok.DataBase\\Configurations\\FounderConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -681,9 +701,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "TeledokDBcontext.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
               "RelativeDocumentMoniker": "Teledok.DataBase\\TeledokDBcontext.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\TeledokDBcontext.cs",
               "RelativeToolTip": "Teledok.DataBase\\TeledokDBcontext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -693,33 +713,35 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "Teledok.DataBase.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
               "RelativeDocumentMoniker": "Teledok.DataBase\\Teledok.DataBase.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
               "RelativeToolTip": "Teledok.DataBase\\Teledok.DataBase.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T15:43:52.701Z"
+              "WhenOpened": "2024-11-09T15:43:52.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "Teledok.Aplication.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
               "RelativeDocumentMoniker": "Teledok.Aplication\\Teledok.Aplication.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
               "RelativeToolTip": "Teledok.Aplication\\Teledok.Aplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T15:38:59.624Z"
+              "WhenOpened": "2024-11-09T15:38:59.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "ClientResponse.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contract.Client\\ClientResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -729,9 +751,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "FounderResponse.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -741,9 +763,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "FounderRequest.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
               "RelativeToolTip": "WebApplication1\\Teledok.Controllers\\Contracts.Founder\\FounderRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -753,9 +775,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.Development.json",
               "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -765,9 +787,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -775,27 +797,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Teledok.DataBase.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
-              "RelativeDocumentMoniker": "Teledok.DataBase\\Teledok.DataBase.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj",
-              "RelativeToolTip": "Teledok.DataBase\\Teledok.DataBase.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T15:43:52.701Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Teledok.Aplication.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
               "RelativeDocumentMoniker": "Teledok.Aplication\\Teledok.Aplication.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\teledok\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj",
               "RelativeToolTip": "Teledok.Aplication\\Teledok.Aplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T15:38:59.624Z"
+              "WhenOpened": "2024-11-09T15:38:59.624Z",
+              "EditorCaption": ""
             }
           ]
         }

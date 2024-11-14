@@ -6,7 +6,7 @@ namespace teledok.Teledok.DataBase.Repositories
     {
         Task<Guid> CreateClient(Client client);
         Task<Guid> DeleteClient(Guid id);
-        Task<List<Client>> GetClients();
+        Task<List<Client>> GetClients(int page);
         Task<Guid> UpdateClient(Guid id, string INN, string Name, int Client_Type);
         Task<List<Guid>> GetIdClients();
     }

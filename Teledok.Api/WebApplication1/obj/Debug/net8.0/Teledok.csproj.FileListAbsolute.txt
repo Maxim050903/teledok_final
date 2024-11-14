@@ -234,3 +234,4 @@ C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\WebApplication1\obj\
 C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\WebApplication1\obj\Debug\net8.0\Teledok.pdb
 C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\WebApplication1\obj\Debug\net8.0\Teledok.genruntimeconfig.cache
 C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\WebApplication1\obj\Debug\net8.0\ref\Teledok.dll
+C:\Users\cuzev\OneDrive\Рабочий стол\teledok\Teledok.Api\WebApplication1\obj\Debug\net8.0\Teledok.sourcelink.json

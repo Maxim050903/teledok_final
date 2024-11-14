@@ -7249,11 +7249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\WebApplication1\\Teledok.csproj",
+      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\WebApplication1\\Teledok.csproj",
       "projectName": "Teledok",
-      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\WebApplication1\\Teledok.csproj",
+      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\WebApplication1\\Teledok.csproj",
       "packagesPath": "C:\\Users\\cuzev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7275,14 +7275,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj": {
-              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj"
+            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj": {
+              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledok.Aplication\\Teledok.Aplication.csproj"
             },
-            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj": {
-              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj"
+            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj": {
+              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledok.DataBase\\Teledok.DataBase.csproj"
             },
-            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj": {
-              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj"
+            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj": {
+              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\teledok\\Teledok.Api\\Teledol.Core\\Teledok.Core.csproj"
             }
           }
         }

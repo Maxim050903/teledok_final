@@ -12,10 +12,11 @@ namespace teledok.Teledok.DataBase.Repositories
         {
             _context = context;
         }
-        public async Task<List<Client>> GetClients()
+        public async Task<List<Client>> GetClients(int page)
         {
             var ClientEntities = await _context.Clients
-                .AsNoTracking()
+                .Skip((page-1) * 2)
+                .Take(2)
                 .ToListAsync();
 
             var Clients = ClientEntities

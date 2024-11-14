@@ -32,3 +32,4 @@ C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\Teledok.Aplication\o
 C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\Teledok.Aplication\obj\Debug\net8.0\Teledok.Aplication.pdb
 C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\Teledok.Aplication\obj\Debug\net8.0\Teledok.Aplication.genruntimeconfig.cache
 C:\Users\cuzev\OneDrive\Рабочий стол\Teledok.Api\Teledok.Aplication\obj\Debug\net8.0\ref\Teledok.Aplication.dll
+C:\Users\cuzev\OneDrive\Рабочий стол\teledok\Teledok.Api\Teledok.Aplication\obj\Debug\net8.0\Teledok.Aplication.sourcelink.json

@@ -21,9 +21,9 @@ namespace teledok.Teledok.Controllers
         }
 
         [HttpGet("GetAllClients")]
-        public async Task<ActionResult<List<ClientResponse>>> GetClients()
+        public async Task<ActionResult<List<ClientResponse>>> GetClients(int page)
         {
-            var Clients = await _clientService.GetAllClients();
+            var Clients = await _clientService.GetAllClients(page);
             var response = Clients.Select(b => new ClientResponse(b.id, b.Name, b.INN, b.Create_Date, b.Update_Date,b.Client_Type));
             return Ok(response);
         }

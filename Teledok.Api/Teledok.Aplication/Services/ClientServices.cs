@@ -14,9 +14,9 @@ namespace teledok.Teledoc.Application.Services
             _founderRepository = founderRepository;
         }
 
-        public async Task<List<Client>> GetAllClients()
+        public async Task<List<Client>> GetAllClients(int page)
         {
-            return await _clientRepository.GetClients();
+            return await _clientRepository.GetClients(page);
         }
 
         public async Task<Guid> CreateClient(Client client)
